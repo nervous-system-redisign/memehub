@@ -8,8 +8,8 @@
 	</head>
 	
 	<body>
-		</h1 align="center">
+		</p align="center">
 			MemeHub
-		</h1>
+		</p>
 	</body>
 </html>
